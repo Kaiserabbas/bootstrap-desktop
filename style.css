@@ -57,4 +57,8 @@
     justify-content: space-around;
 }
 
-@
+.about-connect {
+    color: rgba(127, 140, 255, 1);
+    font-weight: 500;
+    font-style: normal;
+}
